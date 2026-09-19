@@ -133,19 +133,19 @@ resultados.
 
 ### Relação entre Desconto e Lucro
 
-![Relação entre Desconto e Lucro](relacao_desconto_lucro.png)
+![Relação entre Desconto e Lucro](Imagens/relacao_desconto_lucro.png)
 
 ### Vendas e Lucro por Categoria
 
-![Vendas e Lucro por Categoria](vendas_lucro_categoria.png)
+![Vendas e Lucro por Categoria](Imagens/vendas_lucro_categoria.png)
 
 ### Evolução das Vendas
 
-![Evolução das Vendas](evolucao_vendas.png)
+![Evolução das Vendas](Imagens/evolucao_vendas.png)
 
 ### Lucro por Subcategoria
 
-![Lucro por Subcategoria](lucro_subcategoria.png)
+![Lucro por Subcategoria](Imagens/lucro_subcategoria.png)
 
 ## 8. Como executar o projeto
 
